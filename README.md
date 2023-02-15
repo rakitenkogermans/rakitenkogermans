@@ -3,8 +3,8 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/germans.rakitenko)
 
 <p align="middle" >
-  <img align="top" alt="German's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rakitenkogermans&show_icons=true" height="220px" />
-  <img align="top" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rakitenkogermans&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220px" /> 
+  <img align="top" alt="German's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rakitenkogermans&show_icons=true" height="170px" />
+  <img align="top" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rakitenkogermans&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170px" /> 
 </p>
 
 I'm a 22-year-old Full Stack developer. Currently I am 4th year student at University of Latvia studying Computer Science. I love building things with code and exploring new technologies. Here are some of the technologies I enjoy working with:
