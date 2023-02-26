@@ -35,6 +35,6 @@
 
 <h3>Beatiful picture of my city, Riga <img src="https://cdn-icons-png.flaticon.com/512/317/317225.png" width="20px"></h3>
 
-<img src="https://images.unsplash.com/photo-1575659457724-aeb567c7af61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MTI1MjZ8MHwxfHNlYXJjaHwxM3x8cmlnYXxlbnwwfHx8fDE2Nzc0MDc2MTk&ixlib=rb-4.0.3&q=80&w=400"/>
+<img src="https://images.unsplash.com/photo-1606517141792-2f5d1ef03a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MTI1MjZ8MHwxfHNlYXJjaHw0M3x8cmlnYXxlbnwwfHx8fDE2NzczMjgwMTM&ixlib=rb-4.0.3&q=80&w=400"/>
 
-<p>Photo by <a href="https://unsplash.com/@ydaniels">ydaniels</a> on <a href="https://unsplash.com/">Unsplash</a></p>
+<p>Photo by <a href="https://unsplash.com/@kristapsungurs">kristapsungurs</a> on <a href="https://unsplash.com/">Unsplash</a></p>
