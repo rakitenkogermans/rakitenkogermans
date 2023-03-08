@@ -6,8 +6,24 @@ const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 const UNSPLASH_URL = 'https://api.unsplash.com';
 const DATA = {};
+const dateOptions = {
+    year: "numeric",
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+    hour: "numeric",
+    minute: "numeric",
+    second: "numeric",
+    timeZone: 'Europe/Riga'
+};
 
 const randomNumber = (min, max) => Math.floor(Math.random() * (max - min)) + min;
+
+const setBuildDate = () => {
+    const intlObj = new Intl.DateTimeFormat('en-GB', dateOptions);
+    const date = new Date();
+    DATA.BUILD_DATE = intlObj.format(date);
+}
 
 const setImageInformation = async () => {
     try {
@@ -41,6 +57,8 @@ const generateReadMe = async () => {
 }
 
 async function action() {
+    setBuildDate();
+
     await setImageInformation();
 
     await generateReadMe();

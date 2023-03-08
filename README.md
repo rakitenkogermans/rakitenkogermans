@@ -35,6 +35,9 @@
 
 <h3>Beatiful picture of my city, Riga <img src="https://cdn-icons-png.flaticon.com/512/317/317225.png" width="20px"></h3>
 
-<img src="https://images.unsplash.com/photo-1627135279485-0041bf604ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MTI1MjZ8MHwxfHNlYXJjaHwyMHx8cmlnYXxlbnwwfHx8fDE2NzgyNzg2MTQ&ixlib=rb-4.0.3&q=80&w=400"/>
+<img src="https://images.unsplash.com/photo-1566935571405-4b1faed95ee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MTI1MjZ8MHwxfHNlYXJjaHwyMnx8cmlnYXxlbnwwfHx8fDE2NzgzMDAyMTk&ixlib=rb-4.0.3&q=80&w=400"/>
 
-<p>Photo by <a href="https://unsplash.com/@rezabina86">rezabina86</a> on <a href="https://unsplash.com/">Unsplash</a></p>
+<p>Photo by <a href="https://unsplash.com/@lasmaa">lasmaa</a> on <a href="https://unsplash.com/">Unsplash</a></p>
+
+------------
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Wednesday, 8 March 2023 at 20:34:27<br /></p>
