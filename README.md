@@ -35,9 +35,9 @@
 
 <h3>Beatiful picture of my city, Riga <img src="https://cdn-icons-png.flaticon.com/512/317/317225.png" width="20px"></h3>
 
-<img src="https://images.unsplash.com/photo-1566935571405-4b1faed95ee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MTI1MjZ8MHwxfHNlYXJjaHwyMnx8cmlnYXxlbnwwfHx8fDE2NzgzMDAyMTk&ixlib=rb-4.0.3&q=80&w=400"/>
+<img src="https://images.unsplash.com/photo-1632931813972-cba59f06a386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MTI1MjZ8MHwxfHNlYXJjaHw4fHxyaWdhfGVufDB8fHx8MTY3ODI3ODYxNA&ixlib=rb-4.0.3&q=80&w=400"/>
 
-<p>Photo by <a href="https://unsplash.com/@lasmaa">lasmaa</a> on <a href="https://unsplash.com/">Unsplash</a></p>
+<p>Photo by <a href="https://unsplash.com/@rsergis99">rsergis99</a> on <a href="https://unsplash.com/">Unsplash</a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Wednesday, 8 March 2023 at 20:34:27<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Wednesday, 8 March 2023 at 20:35:46<br /></p>
