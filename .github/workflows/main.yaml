@@ -27,8 +27,9 @@ jobs:
         run: yarn run generate:readme
         env:
           UNSPLASH_API_KEY: ${{secrets.UNSPLASH_API_KEY}}
+          OPEN_WEATHER_API_KEY: ${{ secrets.OPEN_WEATHER_API_KEY }}
       - name: Push newly generated README.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OPEN_WEATHER_API_KEY: ${{ secrets.OPEN_WEATHER_API_KEY }}
+
