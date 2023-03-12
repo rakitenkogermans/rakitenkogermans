@@ -35,20 +35,20 @@
 
 <h3>Beatiful picture of my city, Riga <img src="https://cdn-icons-png.flaticon.com/512/317/317225.png" width="20px"></h3>
 
-<img src="https://images.unsplash.com/photo-1580725235174-fb7d3a00ba5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MTI1MjZ8MHwxfHNlYXJjaHwxNnx8cmlnYXxlbnwwfHx8fDE2Nzg0OTY4OTc&ixlib=rb-4.0.3&q=80&w=400"/>
+<img src="https://images.unsplash.com/photo-1576940253868-1e46b064005b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MTI1MjZ8MHwxfHNlYXJjaHw5fHxyaWdhfGVufDB8fHx8MTY3ODU4MzkzOQ&ixlib=rb-4.0.3&q=80&w=400"/>
 
-<p>Photo by <a href="https://unsplash.com/@jesuislisafoll">jesuislisafoll</a> on <a href="https://unsplash.com/">Unsplash</a></p>
+<p>Photo by <a href="https://unsplash.com/@jacquesbopp">jacquesbopp</a> on <a href="https://unsplash.com/">Unsplash</a></p>
 <br/>
 
 <p>
     <b>Riga</b> is the capital city of <b>Latvia</b>, located on the east coast of the <b>Baltic Sea</b>. The city experiences a humid continental climate, with cold winters and mild summers.
     <br/>
-    As of <b>Saturday, 11 March</b>, the current temperature in Riga is <b>-2°C</b>, <b>Snow</b> <img src="https://openweathermap.org/img/wn/13d@2x.png" height="20px">.
+    As of <b>Sunday, 12 March</b>, the current temperature in Riga is <b>-3°C</b>, <b>Clouds</b> <img src="https://openweathermap.org/img/wn/02n@2x.png" height="20px">.
     <br/>
-    <b>100% clouds</b>. Feels like -6°C.
+    <b>20% clouds</b>. Feels like -5°C.
     <br/>
-    Today's weather can be described as <b>snow</b>.
+    Today's weather can be described as <b>few clouds</b>.
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Saturday, 11 March 2023 at 14:25:58<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Sunday, 12 March 2023 at 03:18:59<br /></p>
