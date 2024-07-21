@@ -43,12 +43,12 @@
 <p>
     <b>Riga</b> is the capital city of <b>Latvia</b>, located on the east coast of the <b>Baltic Sea</b>. The city experiences a humid continental climate, with cold winters and mild summers.
     <br/>
-    As of <b>Sunday 21 July</b>, the current temperature in Riga is <b>16°C</b>, <b>Clouds</b> <img src="https://openweathermap.org/img/wn/02n@2x.png" height="20px">.
+    As of <b>Sunday 21 July</b>, the current temperature in Riga is <b>22°C</b>, <b>Clouds</b> <img src="https://openweathermap.org/img/wn/03d@2x.png" height="20px">.
     <br/>
-    <b>20% clouds</b>. Feels like 17°C.
+    <b>40% clouds</b>. Feels like 23°C.
     <br/>
-    Today's weather can be described as <b>few clouds</b>.
+    Today's weather can be described as <b>scattered clouds</b>.
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Sunday 21 July 2024 at 04:13:41<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Sunday 21 July 2024 at 15:27:47<br /></p>
