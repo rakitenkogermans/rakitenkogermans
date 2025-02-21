@@ -15,7 +15,7 @@
 </p>
 
 <p>
-    I'm Germans Rakitenko, a Full Stack Developer with a Bachelor's Degree in Computer Science. I'm currently based in Riga, Latvia. I have 2 years of professional experience in creating dynamic web applications. I love building things with code and exploring new technologies. Here are some of the technologies I enjoy working with:
+    I'm Germans Rakitenko, a Full Stack Developer with a Bachelor's Degree in Computer Science. I'm currently based in Riga, Latvia. I have 3.5+ years of professional experience in creating dynamic web applications. I love building things with code and exploring new technologies. Here are some of the technologies I enjoy working with:
 </p>
 
 
