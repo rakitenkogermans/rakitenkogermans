@@ -15,7 +15,7 @@
 </p>
 
 <p>
-    I'm Germans Rakitenko, a Full Stack Developer with a Bachelor's Degree in Computer Science. I'm currently based in Riga, Latvia. I have 2 years of professional experience in creating dynamic web applications. I love building things with code and exploring new technologies. Here are some of the technologies I enjoy working with:
+    I'm Germans Rakitenko, a Full Stack Developer with a Bachelor's Degree in Computer Science. I'm currently based in Riga, Latvia. I have 3.5+ years of professional experience in creating dynamic web applications. I love building things with code and exploring new technologies. Here are some of the technologies I enjoy working with:
 </p>
 
 
@@ -35,9 +35,9 @@
 
 <h3>Beatiful picture of my city, Riga <img src="https://cdn-icons-png.flaticon.com/512/317/317225.png" width="20px"></h3>
 
-<img src="https://images.unsplash.com/photo-1608931787924-65722578fff9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTI1MjZ8MHwxfHNlYXJjaHwyfHxyaWdhfGVufDB8fHx8MTc0MDE0MTI0NHww&ixlib=rb-4.0.3&q=80&w=400"/>
+<img src="https://images.unsplash.com/photo-1622151788322-9fc309d21961?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTI1MjZ8MHwxfHNlYXJjaHw0fHxyaWdhfGVufDB8fHx8MTc0MDE0MTI0NHww&ixlib=rb-4.0.3&q=80&w=400"/>
 
-<p>Photo by <a href="https://unsplash.com/@jbeitins">jbeitins</a> on <a href="https://unsplash.com/">Unsplash</a></p>
+<p>Photo by <a href="https://unsplash.com/@aemkei">aemkei</a> on <a href="https://unsplash.com/">Unsplash</a></p>
 <br/>
 
 <p>
@@ -51,4 +51,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Friday 21 February 2025 at 20:03:30<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Friday 21 February 2025 at 20:04:46<br /></p>
