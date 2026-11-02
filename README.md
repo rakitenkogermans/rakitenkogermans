@@ -35,9 +35,9 @@
 
 <h3>Beatiful picture of my city, Riga <img src="https://cdn-icons-png.flaticon.com/512/317/317225.png" width="20px"></h3>
 
-<img src="https://images.unsplash.com/photo-1609517760017-9b76ac28f0e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTI1MjZ8MHwxfHNlYXJjaHwyMXx8cmlnYXxlbnwwfHx8fDE3OTM1OTQ2Njh8MA&ixlib=rb-4.1.0&q=80&w=400"/>
+<img src="https://images.unsplash.com/photo-1671629896376-6f4ad3229dc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTI1MjZ8MHwxfHNlYXJjaHw0Nnx8cmlnYXxlbnwwfHx8fDE3OTM1NTQ4NzN8MA&ixlib=rb-4.1.0&q=80&w=400"/>
 
-<p>Photo by <a href="https://unsplash.com/@milanzmatlo">milanzmatlo</a> on <a href="https://unsplash.com/">Unsplash</a></p>
+<p>Photo by <a href="https://unsplash.com/@optikei">optikei</a> on <a href="https://unsplash.com/">Unsplash</a></p>
 <br/>
 
 <p>
@@ -45,10 +45,10 @@
     <br/>
     As of <b>Monday 2 November</b>, the current temperature in Riga is <b>3°C</b>, <b>Clear</b> <img src="https://openweathermap.org/img/wn/01n@2x.png" height="20px">.
     <br/>
-    <b>0% clouds</b>. Feels like 3°C.
+    <b>0% clouds</b>. Feels like 2°C.
     <br/>
     Today's weather can be described as <b>clear sky</b>.
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Monday 2 November 2026 at 06:44:28<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br/>Last generate: Monday 2 November 2026 at 23:26:52<br /></p>
