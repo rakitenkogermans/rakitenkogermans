@@ -15,15 +15,27 @@
 </p>
 
 <p>
-    I'm Germans Rakitenko, a Full Stack Developer with a Bachelor's Degree in Computer Science. I'm currently based in Riga, Latvia. I have 3.5+ years of professional experience in creating dynamic web applications. I love building things with code and exploring new technologies. Here are some of the technologies I enjoy working with:
+    I'm Germans Rakitenko, a Software Engineer specializing in front-end development, based in Riga, Latvia, with 6+ years of experience building production web applications and a Bachelor's degree in Computer Science.
 </p>
 
-
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,scss,materialui,tailwind,nodejs,express,jest,mongodb,mysql,babel,webpack,linux,nginx,git,github" />
-    </a>
+<p>
+    I specialize in React and TypeScript, with experience owning the front-end development lifecycle and shaping application architecture, shared component libraries, and design systems. I've built data-intensive interfaces, analytics dashboards, complex tables, and accessible forms with advanced validation. My architectural experience includes micro-frontends, MVVM, state management, and integrating React into existing server-rendered applications.
 </p>
+
+<p>
+    Beyond feature delivery, I help improve engineering standards through technical guidance, mentoring, code reviews, and cross-project tooling initiatives. My work includes performance optimization, testing infrastructure, API mocking, dead-code detection, and CI quality checks, working closely with Product, Design, and Back-end teams.
+</p>
+
+<p>
+    My full-stack background includes building Node.js and Express APIs, working with MongoDB and MySQL, and integrating REST APIs and WebSockets. I also work with .NET/ASP.NET MVC applications and back-end endpoints, including integrating React through Vite with multiple entry points, shared dependencies, and versioned assets. My development and delivery experience includes Azure, Azure DevOps, Docker, CI/CD, and deploying applications on Linux with Nginx.
+</p>
+
+<ul>
+    <li><b>Front-end and architecture:</b> React, TypeScript, JavaScript, Next.js, HTML, CSS/SCSS, Redux, RTK Query, MobX, React Hook Form, design systems, shared component libraries, micro-frontends, MVVM.</li>
+    <li><b>Testing and tooling:</b> Vitest, Jest, MSW, Vite, Webpack, Storybook, ESLint, Prettier, Knip.</li>
+    <li><b>Back-end:</b> Node.js, Express, .NET/ASP.NET MVC integration, REST APIs, WebSockets, MongoDB, MySQL.</li>
+    <li><b>Cloud and delivery:</b> Azure, Azure DevOps, Docker, CI/CD, Linux, Nginx.</li>
+</ul>
 
 ------------
 
